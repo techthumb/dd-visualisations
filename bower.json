@@ -1,0 +1,13 @@
+{
+  "name": "dd-visualisations",
+  "version": "0.0.0",
+  "dependencies": {
+    "sass-bootstrap": "~2.3.0",
+    "requirejs": "~2.1.4",
+    "modernizr": "~2.6.2",
+    "jquery": "~2.0.2",
+    "crossfilter": "~1.2.0",
+    "d3": "~3.2.1"
+  },
+  "devDependencies": {}
+}
